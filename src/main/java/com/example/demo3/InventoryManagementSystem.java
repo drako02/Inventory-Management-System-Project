@@ -1,4 +1,5 @@
-//STUDENT ID: 10911699
+//NAME: Andrew Appah
+//ID: 10911699
 package com.example.demo3;
 
 import javafx.application.Application;
